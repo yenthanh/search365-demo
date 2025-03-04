@@ -14,10 +14,8 @@
     "core-js": "^3.41.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-paginate": "^8.3.0",
     "react-router-dom": "^6.25.1",
-    "search365-ai-search": "file:../codebase",
-    "test-2": "file:../test/test-2/test-2-1.0.0.tgz"
+    "test-2": "file:C:/Users/Admin/OneDrive/Documents/SapotarCorp/search365-codebase/test-2-1.0.0.tgz"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
