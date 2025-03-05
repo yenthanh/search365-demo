@@ -3,8 +3,8 @@
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
-    // "./node_modules/test-2/**/*.{js,jsx,ts,tsx}",
-    "./node_modules/ai-chat-box/**/*.{js,jsx,ts,tsx}",
+    "./node_modules/test-2/**/*.{js,jsx,ts,tsx}",
+    // "./node_modules/ai-chat-box/**/*.{js,jsx,ts,tsx}",
   ],
   theme: { extend: {} },
   plugins: [],
