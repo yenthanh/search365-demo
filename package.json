@@ -20,7 +20,7 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.25.1",
     "tailwindcss": "^3.4.6",
-    "test-2": "D:/Workspace/search/test/test-2/test-2-1.0.0.tgz",
+    "code-base": "D:/Workspace/search/test/test-2/code-base-1.0.0.tgz",
     "ai-chat-box": "D:/Workspace/search/test/search365-ai-chat-box/search365-ai-chat-box/ai-chat-box-1.0.0.tgz"
   },
   "devDependencies": {

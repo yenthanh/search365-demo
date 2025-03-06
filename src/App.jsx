@@ -1,12 +1,12 @@
-// import Chatbot from "ai-chat-box";
+import Chatbot from "ai-chat-box";
 import React from "react";
-import SearchAI from "test-2";
+import SearchAI from "code-base";
 
 function App() {
   return (
     <>
       <SearchAI />
-      {/* <Chatbot /> */}
+      <Chatbot />
     </>
   )
 }
